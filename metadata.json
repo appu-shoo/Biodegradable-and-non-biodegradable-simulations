@@ -1,0 +1,6 @@
+{
+  "name": "EcoChainAI - Smart Waste Segregation 3D Simulation",
+  "description": "Interactive 3D engineering prototype simulation of the EcoChainAI smart waste segregation system featuring ESP32 controller, PCA9685 servo driver, computer vision AI classification, dual compartments, and IoT telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
